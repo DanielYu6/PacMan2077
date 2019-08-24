@@ -1,5 +1,5 @@
 # PacMan2077
-https://media.giphy.com/media/QVV2DgFMVLKR1ALFdh/giphy.gif
+![alt text](https://media.giphy.com/media/QVV2DgFMVLKR1ALFdh/giphy.gif)
 This was a simple little project I made in 3 days to try and learn a bit of the new Unity DOTS.
 The maze generation is using the Recursive Backtracking algorithm.
 It can create mazes up of around 1000x1000 blocks with 3000 enemies doing really basic wandering and 2000 collectible items. 
